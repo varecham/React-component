@@ -1,5 +1,5 @@
 # React-component
-Creates react component folder containing pre-generated index.js and &lt;component_name&gt;.js files so you'll have cleaner src folder and you can import component using:
+Creates react component folder containing pre-generated index.js and &lt;component_name&gt;.js files so you'll have cleaner src folder and you may import components using:
 ```javascript
 import [<Your-variable> from] '<component_name>'
 ```
