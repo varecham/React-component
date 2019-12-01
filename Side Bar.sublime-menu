@@ -1,0 +1,10 @@
+[
+    {
+    	"id": "reactcomponent",
+        "caption": "New React component",
+        "command": "reactcomponent", 
+        "args": {
+        	"dirs": []
+        } 
+    }
+]
